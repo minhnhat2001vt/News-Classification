@@ -12,5 +12,5 @@ The goal of this project is to build a Supervised Learning Model that can classi
 - Dimesional Reduction
 ### 3. Model Training and Evaluating
 - Build Machine Learning models (Multinomial Naive Bayes, Logistic Regression, Random Forest, SVM) and Deep Learning models (MLP, CNN, Bi-LSTM).
-- Evaluate the model performance with test set using Precision, Recall, F1 Score and Accuracy Percent.
+- Evaluate the model performance with test set using Precision, Recall, F1 Score and Accuracy Percent. This  project achieved 90% accuracy on the Test set for the Machine Learing model (SVM) and 85% for the Deep Learning Model (BiLSTM)
 - Optimize the Hyper-parameters of the models to increase model performanc
